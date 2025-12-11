@@ -2,8 +2,6 @@
 
 Crime Radar is a real-time crime mapping application built with React, Vite, Supabase, and the Google Maps API. It allows users to report and view crimes on an interactive map. The system includes role-based access for Admins, Officials, and Regular Users.
 
------
-
 ## Features
 
   - Interactive map with crime markers.
@@ -14,8 +12,6 @@ Crime Radar is a real-time crime mapping application built with React, Vite, Sup
       - **Regular Users**: Submit and view verified reports.
   - Backup system for restoring the database.
   - Can be restored even if the Supabase backend is deleted.
-
------
 
 ## Getting Started
 
@@ -53,8 +49,6 @@ Once the setup is complete, you can run the development server:
 ```bash
 npm run dev
 ```
-
------
 
 ## Backup and Restore
 
